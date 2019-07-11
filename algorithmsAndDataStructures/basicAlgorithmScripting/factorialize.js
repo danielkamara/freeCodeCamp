@@ -16,8 +16,8 @@ factorialize(5);
 function factorialize(num) {
   var answer = 1;
   while (num > 1){
-  answer *= num
-  num--
+  answer *= num;
+  num--;
   }
   return answer;
 

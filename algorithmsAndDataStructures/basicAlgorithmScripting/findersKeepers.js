@@ -5,7 +5,7 @@
 function findElement(arr, func) {
     let num = arr.filter(func);
     if(num.length > 1 ) {
-      return num[0]
+      return num[0];
     }
     return undefined;
   }
