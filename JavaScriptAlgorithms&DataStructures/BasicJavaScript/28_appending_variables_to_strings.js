@@ -7,7 +7,7 @@ Example:
 var anAdjective = "awesome!";
 var ourStr = "freeCodeCamp is ";
 ourStr += anAdjective;
-// ourStr is now "freeCodeCamp is awesome!"
+ourStr is now "freeCodeCamp is awesome!"
 Set someAdjective and append it to myStr using the += operator.
 */
 
