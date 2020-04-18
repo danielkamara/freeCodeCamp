@@ -1,5 +1,5 @@
-// /learn
-// Basic JavaScript: Compound Assignment With Augmented MultiplicationPassed
+
+// Basic JavaScript: Compound Assignment With Augmented Multiplication
 // The *= operator multiplies a variable by a number.
 
 // myVar = myVar * 5;

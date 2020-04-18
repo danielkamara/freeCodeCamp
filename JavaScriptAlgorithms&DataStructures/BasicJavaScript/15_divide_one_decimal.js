@@ -1,4 +1,4 @@
-// Basic JavaScript: Divide One Decimal by Another with JavaScriptPassed
+// Basic JavaScript: Divide One Decimal by Another with JavaScript
 // Now
 // let 's divide one decimal by another.
 

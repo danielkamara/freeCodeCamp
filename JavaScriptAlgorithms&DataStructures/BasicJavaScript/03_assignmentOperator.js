@@ -1,4 +1,4 @@
-// Basic JavaScript: Storing Values with the Assignment OperatorPassed
+// Basic JavaScript: Storing Values with the Assignment Operator
 // In JavaScript, you can store a value in a variable with the assignment operator.
 
 // myVariable = 5;

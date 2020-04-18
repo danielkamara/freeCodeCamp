@@ -1,4 +1,4 @@
-// Basic JavaScript: Add Two Numbers with JavaScriptPassed
+// Basic JavaScript: Add Two Numbers with JavaScript
 // Number is a data type in JavaScript which represents numeric data.
 
 // Now

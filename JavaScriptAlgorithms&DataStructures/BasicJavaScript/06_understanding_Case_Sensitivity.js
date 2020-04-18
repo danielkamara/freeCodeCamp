@@ -1,4 +1,4 @@
-// Basic JavaScript: Understanding Case Sensitivity in VariablesPassed
+// Basic JavaScript: Understanding Case Sensitivity in Variables
 // In JavaScript all variables and
 // function names are
 // case sensitive.This means that capitalization matters.

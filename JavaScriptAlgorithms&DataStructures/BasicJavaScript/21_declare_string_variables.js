@@ -1,4 +1,4 @@
-// Basic JavaScript: Declare String VariablesPassed
+// Basic JavaScript: Declare String Variables
 // Previously we have used the code
 
 // var myName = "your name";

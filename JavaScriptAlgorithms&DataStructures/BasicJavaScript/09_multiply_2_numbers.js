@@ -1,4 +1,4 @@
-// Basic JavaScript: Multiply Two Numbers with JavaScriptPassed
+// Basic JavaScript: Multiply Two Numbers with JavaScript
 // We can also multiply one number by another.
 
 // JavaScript uses the * symbol
